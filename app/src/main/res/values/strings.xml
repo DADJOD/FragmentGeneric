@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FragmentGeneric</string>
+    <string name="first_fragment">First fragment</string>
 </resources>
